@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Events Logger</string>
+    <string name="required_permissions_info">Events Logger requires access to files to save logs.</string>
+    <string name="no_accelerometer_detected">No accelerometer detected.</string>
+    <string name="logs_file_cannot_be_created">Logs file cannot be created.</string>
+    <string name="logs_cannot_be_read">Logs cannot be read.</string>
+    <string name="logs_cannot_be_saved">Logs cannot be saved.</string>
+    <string name="upload_logs">Upload logs</string>
+    <string name="remove_all">Remove all</string>
+    <string name="logs_uploaded_successfully">Logs uploaded successfully.</string>
+    <string name="logs_cleared_successfully">Logs cleared successfully.</string>
+    <string name="logs_cannot_be_uploaded">Logs cannot be uploaded.</string>
+    <string name="logs_cannot_be_cleared">Logs cannot be cleared.</string>
+    <string name="fold">Fold</string>
+</resources>
